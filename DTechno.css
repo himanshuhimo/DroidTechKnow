@@ -1,0 +1,126 @@
+.main{
+    background-color: rgb(245, 237, 237);
+}
+.header{
+    background-color: orange;
+    color: white   ;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+}
+.button_white{
+    color: white;
+    font-size: medium;
+
+}
+.article{
+    border: solid rgb(133, 128, 128) 1px;
+    border-radius: 10px;
+    margin: 20px;
+    padding: 10px; 
+    
+}
+.h6{
+    color: orangered;
+}
+.contact_us{
+    width: 100%;
+    
+}
+#button:hover{
+    background-color: rgb(206, 94, 53);
+}
+.a{
+    text-decoration: none;
+    color: black;
+}
+.read_more{
+    background-color: orange;
+    color: white;
+    margin-bottom: 0px;
+    float:inline-end;
+    border: none;
+}
+.staypost{
+    background-color: rgb(179, 86, 53);
+    color: white;
+    border:none;
+    text-align: center;
+    font-size: larger; 
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding: 10px;
+    margin: 10px 0 10px 0;
+}
+.stayconected{
+    margin-bottom: 5px;
+    background-color: none;
+    color: whitesmoke;
+    border: none; 
+    width: 100%;
+}
+.stayconected_fb{
+    background-color:blue; margin-top: 15px;
+}
+.stayconected_tweeter{
+    background-color: skyblue;
+}
+.stayconected_insta{
+    background-color: brown;
+}
+.stayconected_youtube{
+    background-color: red;
+    margin-bottom: 15px;
+}
+.stayconected:hover{
+    background-color: orange;
+}
+.footer{
+    background-color: rgb(42, 42, 81);
+    color: white;
+    margin-top: 10px;
+    padding: 15px;
+
+}
+.footer_bottom{
+    background-color: rgb(42, 42, 62);    
+    color: white;
+    padding: 10px;
+    margin: none;
+}
+.footer_a{
+    text-decoration:none;
+    color: olivedrab;
+}
+.footer_button{
+    text-decoration: none;
+    text-align: center;
+    background-color: rgb(16, 101, 16);
+    color: white;
+    border-radius: 47%;
+    margin: 10px;
+    border: none;
+    font-size: 30px;
+    padding: 5px;
+}
+.footer_button_fb:hover{
+    background-color: #4267B2;
+}
+.footer_button_tw:hover{
+    background-color: #1DA1F2
+    ;
+}
+.footer_button_yt:hover{
+    background-color: red;
+}
+.subscribe_submit{
+    background-color: green;
+    color: white;
+    border: none;
+    margin: none;
+    display: inline;
+}
+
+.myImage {
+    width: 100%;
+    object-fit: scale-down;
+    height: 100%;
+}
