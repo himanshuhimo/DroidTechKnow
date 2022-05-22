@@ -49,5 +49,3 @@ remx.addEventListener('click',function(e){
     let li = e.target.parentNode;
     p1.removeChild(li);
 })
-let edit = document.querySelector('ul');
-edit.addEventListener('click',textContent) ;
